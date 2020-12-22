@@ -14,7 +14,7 @@
 
 - :mailbox: How to reach me: blgnemre@hotmail.com
 
-- :zap: Fun Fact: I :heart: :scubadiving:
+- :zap: Fun Fact: I :heart: :tea:, :book:. I am reaaly a good :snowboarder: and :swimmer:.
 
 **Languages and Tools:**  
 
