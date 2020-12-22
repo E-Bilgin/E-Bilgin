@@ -1,7 +1,7 @@
 
 ### Hi there :wave: 
 
-### Here is Emre Bilgin.
+### I am  **Emre Bilgin**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-Bilgin" alt="E-Bilgin" /> </p>
 
