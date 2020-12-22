@@ -1,5 +1,11 @@
 
-### Hi there :wave:                                        
+### Hi there :wave: 
+
+### Here is Emre Bilgin.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=e-Bilgin" alt="E-Bilgin" /> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-b-2b944015b/)
+[![](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/emre.bilgin#!/)
 
 
 - :school: I'm currently a master student in Frankfurt Goethe University in Peace and Conflict Studies
@@ -14,7 +20,7 @@
 
 - :mailbox: How to reach me: blgnemre@hotmail.com
 
-- :zap: Fun Fact: I :heart: :tea:, :book:. I am reaaly a good :snowboarder: and :swimmer:.
+- :zap: Fun Fact: I :heart: :tea: and :book:. I am reaaly a good :snowboarder: and :swimmer:.
 
 **Languages and Tools:**  
 
