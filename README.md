@@ -1,5 +1,7 @@
 
-### Hi there :wave:                                        ![Emre's github stats](https://github-readme-stats.vercel.app/api?username=E-Bilgin&show_icons=true&hide_border=true)
+### Hi there :wave:                                        
+
+![Emre's github stats](https://github-readme-stats.vercel.app/api?username=E-Bilgin&show_icons=true&hide_border=true)
 
 - :school: I'm currently a master student in Frankfurt Goethe University in Peace and Conflict Studies
 
