@@ -9,7 +9,9 @@
 [![](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/emre.bilgin#!/)
 
 
-- :school: I'm currently a master student in Frankfurt Goethe University in Peace and Conflict Studies and work as a consultant at Movimentar Project Management and Data Science
+- :school: I'm currently a master student in Frankfurt Goethe University in Peace and Conflict Studies and 
+
+- :office: I work as a consultant at Movimentar Project Management and Data Science
 
 - :computer: I always try to improve my Data Science skills
 
@@ -21,7 +23,7 @@
 
 - :mailbox: How to reach me: blgnemre@hotmail.com
 
-- :zap: Fun Fact: I :heart: :tea: and :book:. I am reaaly a good :snowboarder: and :swimmer:.
+- :zap: Fun Fact: I :heart: :tea: and :books:. I am reaaly a good :snowboarder: and :swimmer:.
 
 **Languages and Tools:**  
 
