@@ -7,7 +7,7 @@
 
 - :rocket: I have already finished Machine Learning Training, currently learning Natural Language Processing (NLP)
 
-- :help: 
+- :confused: I’m looking for help with advanced Data Structures and Algorithms
 
 - :question: Ask me about anything related to Peace and Conflict Studies, Data Analyse, Python, SQL, Tableau, Stata, Data Visualization...
 
