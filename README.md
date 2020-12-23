@@ -1,5 +1,7 @@
-                                  
-### Hi there :wave: 
+<img src="https://github-readme-stats.vercel.app/api?username=E-Bilgin&show_icons=true&theme=tokyonight" align='right' width="55%">                                  
+
+
+## Hi there :wave: 
 
 ### I am  **Emre Bilgin**.
 
@@ -39,5 +41,5 @@
 <code><img height="20" src="https://github.com/E-Bilgin/General/blob/main/filetypes_Sheets_icon-icons.com_76703.png"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=E-Bilgin&show_icons=true&theme=tokyonight" align='right' width="55%">
+
 
