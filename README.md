@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/emre.bilgin#!/)
 
 
-- :school: I'm currently a master student in Frankfurt Goethe University in Peace and Conflict Studies 
+- :school: I'm currently a master student of Peace and Conflict Studies at Frankfurt Goethe University
 
 - :office: I work as a consultant at Movimentar Project Management and Data Science
 
