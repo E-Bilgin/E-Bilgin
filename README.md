@@ -36,7 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://github.com/E-Bilgin/General/blob/main/file_type_jupyter_icon_130494.png"></code>
 <code><img height="20" src="https://github.com/E-Bilgin/General/blob/main/file_type_stata_icon_130148.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://github.com/E-Bilgin/General/blob/main/filetypes_Sheets_icon-icons.com_76703.png"></code>
 
 
 ![Emre's github stats](https://github-readme-stats.vercel.app/api?username=E-Bilgin&show_icons=true&hide_border=true)
