@@ -15,7 +15,7 @@
 
 - :computer: I always try to improve my Data Science skills
 
-- :rocket: I have already finished Machine Learning Training, currently learning Natural Language Processing (NLP)
+- :rocket: I have just finished Machine Learning Training, currently learning Natural Language Processing (NLP)
 
 - :confused: I’m looking for help with advanced Data Structures and Algorithms
 
