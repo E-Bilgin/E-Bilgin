@@ -9,7 +9,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-b-2b944015b/)
 [![](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=red)](https://public.tableau.com/profile/emre.bilgin#!/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@blgnemreblgn/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emreblgn/)
 
 
 - :school: I'm currently a master student of Peace and Conflict Studies at Frankfurt Goethe University
