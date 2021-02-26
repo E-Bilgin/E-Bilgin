@@ -18,7 +18,7 @@
 
 - :computer: I always try to improve my Data Science skills
 
-- :rocket: I have just finished Natural Language Processing (NLP) Training, currently learning Deep Learning
+- :rocket: I know Machine Learning, Natural Language Processing (NLP), Deep Learning, TensorFlow, Model Deployment with AWS and Microsoft Azure...
 
 - :confused: I’m looking for help with advanced Data Structures and Algorithms
 
