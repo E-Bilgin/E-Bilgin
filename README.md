@@ -12,7 +12,6 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emreblgn/)
 
 
-- :school: I'm currently a master student of Peace and Conflict Studies at Frankfurt Goethe University
 
 - :office: I work as a consultant at Movimentar Project Management and Data Science
 
