@@ -19,8 +19,6 @@
 
 - :rocket: I know Machine Learning, Natural Language Processing (NLP), Deep Learning, TensorFlow, Model Deployment with AWS and Microsoft Azure...
 
-- :confused: I’m looking for help with advanced Data Structures and Algorithms
-
 - :question: Ask me about anything related to Peace and Conflict Studies, Data Analyse, Python, SQL, Tableau, Stata, Data Visualization...
 
 - :mailbox: How to reach me: blgnemre@hotmail.com
