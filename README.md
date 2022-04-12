@@ -13,7 +13,7 @@
 
 
 
-- :office: I work as a consultant at Movimentar Project Management and Data Science
+- :office: I work as a Data Scientist and Project Manager.
 
 - :computer: I always try to improve my Data Science skills
 
